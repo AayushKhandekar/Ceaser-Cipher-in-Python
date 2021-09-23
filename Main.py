@@ -20,7 +20,6 @@ def encode(string, key):
         encodedString += chr(x)
     print("Encoded String : ", encodedString)
 
-# Decoding error needs to be solved!
 def decode(string, key):
     
     decodedString = ''
